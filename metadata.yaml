@@ -1,0 +1,27 @@
+_repo: Valikoima-Jaakko-Juteinin-runoja_33949
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Juteini, Jaakko
+    birthdate: 1781
+    deathdate: 1855
+    gutenberg_agent_id: '36682'
+    url: http://www.gutenberg.org/2009/agents/36682
+    wikipedia: http://fi.wikipedia.org/wiki/Jaakko_Juteini
+description: ''
+gutenberg_issued: '2010-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33949'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Poetry'
+title: Valikoima Jaakko Juteinin runoja
+url: http://www.gutenberg.org/ebooks/33949
